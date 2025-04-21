@@ -1,0 +1,31 @@
+﻿# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Aa]ssets/AssetStoreTools*
+
+# Unity user settings
+/[Aa]ssets/Editor/
+/[Aa]ssets/Plugins/Editor/
+
+# Unity 3D meta files (if you don't want to track them)
+*.meta
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs and crash reports
+*.log
+crashlytics*
+
+# Large asset files (например, большие текстуры, модели и т.д.)
+/[Aa]ssets/[Tt]extures/*
+/[Aa]ssets/[Mm]odels/*
+/[Aa]ssets/[Aa]udio/*
+
+# JetBrains Rider
+.idea/
+*.iml
