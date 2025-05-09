@@ -838,11 +838,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _platformPrefab: {fileID: 8434431837094318185, guid: dc4bbe173b6add2428aa0a76d7ae20e9, type: 3}
-  _randomPositionX: 15
-  _spawnDelay: 5
-  borderControllerScene: {fileID: 974602175}
+  _spawnDelay: 2
+  _maxSpawnCount: 5
   _minWidthPlatform: 0.5
   _maxWidthPlatform: 1
+  _startPositionY: -450
+  _verticalGap: 150
 --- !u!114 &974602175
 MonoBehaviour:
   m_ObjectHideFlags: 0
